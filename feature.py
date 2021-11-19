@@ -1,1 +1,1 @@
-print('the feature')
+print('mum, get the camera!')
